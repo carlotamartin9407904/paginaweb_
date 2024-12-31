@@ -93,7 +93,10 @@ section ul {
 section li {
     margin-bottom: 0.5rem;
 }
-
+.images img{
+    width: 200px;
+    height: auto;
+}
 /* Estilo del pie de página */
 footer {
     background-color: #67dbce;
